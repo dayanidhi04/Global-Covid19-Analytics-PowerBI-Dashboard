@@ -39,11 +39,11 @@ This project analyzes global COVID-19 data to identify trends, patterns, and key
 
 
 ## 📁 Project Structure
-├── Dataset/
-├── Jupyter_Notebook/
-├── SQL_Queries/
-├── PowerBI_Dashboard.pbix
-└── README.md\
+Dataset/
+Jupyter_Notebook/
+SQL_Queries/
+PowerBI_Dashboard.pbix
+README.md\
 
 ## 🚀 Outcome
 - Demonstrates data cleaning and preprocessing skills
